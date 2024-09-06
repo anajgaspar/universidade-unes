@@ -19,6 +19,7 @@ body {
 .capa {
     display: flex;
     justify-content: center;
+    background-color: #ececec;
 }
 
 article {
