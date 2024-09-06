@@ -1,0 +1,36 @@
+body {
+    font-family:'Garamond';
+    margin: 1% 2% 1% 2%;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container nav{
+    justify-content: right;
+}
+
+.logo {
+    justify-content: left;
+}
+
+.conteudo {
+    display: flex;
+    flex-direction: column;
+}
+
+.conteudo p {
+    text-align: left;
+}
+
+.form {
+    justify-content: center;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    font-weight: bolder;
+}
